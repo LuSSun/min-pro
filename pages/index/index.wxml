@@ -13,6 +13,10 @@
     <view>你哈达发；案例库</view>
     <view>你哈达发；案例库</view>
     <view>你哈达发；案例库</view>
+    <view>你哈达发；案例库</view>
+    <view>你哈达发；案例库</view>
+    <view>你哈达发；案例库</view>
+    <view>你哈达发；案例库</view>
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
