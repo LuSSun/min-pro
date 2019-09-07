@@ -1,0 +1,10 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  <block wx:for="{{logs}}" wx:for-item="log" wx:key="{{index}}">
+    <text class="log-item">{{index + 1}}. {{log}}</text>
+  </block>
+ <button open-type="share" data-id="13" data-url="dfhskdj">分享啊</button>
+ <button bindtap="changeItemInObject"> Change Object data </button>
+ <view>{{newField.text}}</view>
+
+</view>
